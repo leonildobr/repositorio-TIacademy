@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.body-fundo {
+    background-color: royalblue;
+}
+div {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: sandybrown;
+}
+.div-superior-esquerda {
+    top: 0;
+    left: 0;
+}
+.div-superior-direita {
+    top: 0;
+    right: 0;
+}
+.div-inferior-esquerda {
+    bottom: 0;
+    left: 0;
+}
+.div-inferior-direita {
+    bottom: 0;
+    right: 0;
+}
