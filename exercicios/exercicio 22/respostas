@@ -1,0 +1,3 @@
+sim, não só por um espaçamento como também por um sinal de maior que (<)
+não, ele pode até renderizar o tamanho para visualisação, porém não altera o tamanho original;
+não, a tag responsável por criar titulos é na verdade as tags de <h1> até <h6>

@@ -1,0 +1,3 @@
+não, um arquivo css pode ser renderizado na própria pasta raiz, mas para questões de organização, é interessante que se tenha pastas separadas;
+não, apenas alguns elementos HTML tem elementos filhos como padrão, porém, se for criado um elemento com um contaner, e dentro dele for posto um outro elemento, este elemento se torna filho;
+a área que o usuário normalmente vê em uma página web

@@ -1,0 +1,5 @@
+a medida em pegará as medidas do elemento pai, já a medida rem pegará as medidas do root, por exemplo html
+
+:root {
+    --nome_da_var: valor;
+}

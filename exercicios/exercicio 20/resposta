@@ -1,0 +1,3 @@
+background, background: linear-gradient(blue , green);
+não, é recomendado que o css seja escrito em um código separado, por questões de organização;
+pixel é uma unidade fixa, portanto, quando usada, o objeto não será dinâmico de forma que ficará estático na tela até que se faça as alterações no código, já a medida porcentagem fará com que o objeto seja mais dinâmico, concordando com alterações feitas ao redor dele
