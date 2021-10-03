@@ -1,0 +1,14 @@
+
+div {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color: black;
+    cursor: pointer;
+}
+
+div:hover {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
