@@ -16,20 +16,52 @@ header {
     flex-direction: row;
 }
 #logo{
-    height: 40px;
+    margin-left: 100px;
     width: 50%;
     display: flex;
-    justify-content: center;
-    text-align: center;
+    align-items: center;
+    font-family: helvetica;
+    color: white;
 }
 nav{
-    height: 40px;
     width: 50%;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
+}
+a {
+    margin: 3px;
+    display:flex;
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-
+    width: 100px;
+    height: 30px;
+    font-family: helvetica;
+}
+.home {
+    background-color: #f9a825;
+    border-radius: 30px;
+}
+.contato:hover{
+    background-color: red;
+}
+#box-main {
+    height: 400px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 300px;
+    border: 1px solid #03A9F4;
+    padding: 20px;
+}
+.estante {
+    margin: 1px;
+    width: 50%;
 }
 .pontilhado {
     border-right: 1px dashed #000;
@@ -50,6 +82,14 @@ p{
     outline: none;
     border-radius: 5px;
     border: 1px solid #000;
+}
+footer {
+    background-color: #212121;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 #tiacademy {
     color: #fff;
