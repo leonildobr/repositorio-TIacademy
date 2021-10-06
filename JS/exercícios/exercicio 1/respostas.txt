@@ -1,0 +1,2 @@
+1. parcialmente certa, o JS é uma linguagem interpretada, porém ela não gera outro código fonte.
+2. não, existem outras formas de executar o JS
