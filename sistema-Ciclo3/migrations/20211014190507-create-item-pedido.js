@@ -18,16 +18,16 @@ module.exports = {
         primaryKey : true,
         type : Sequelize.INTEGER,
         references: {
-          model: 'Servicos',
+          model: 'servicos',
           key: 'id'
         },
         onDelete : 'CASCADE',
         onUpdate : 'CASCADE'
       },
-      uqntidade: {
+      quantidade: {
         type: Sequelize.INTEGER
       },
-      valoe: {
+      valor: {
         type: Sequelize.FLOAT
       },
       createdAt: {
